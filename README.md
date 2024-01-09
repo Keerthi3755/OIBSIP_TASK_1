@@ -1,0 +1,1 @@
+The Iris dataset is a classic dataset in the world of machine learning and data science. It consists of 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). Each sample contains four features: sepal length, sepal width, petal length, and petal width, making it a perfect dataset for classification tasks.
